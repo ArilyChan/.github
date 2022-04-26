@@ -1,3 +1,3 @@
-# .github
+# 小阿日的主页说明
 
-这就是小阿日！
+[修改主页置顶说明内容](https://github.com/ArilyChan/.github/edit/main/profile/README.md)
